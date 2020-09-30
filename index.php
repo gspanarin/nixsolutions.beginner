@@ -1,4 +1,5 @@
 <?php
-
-echo 'Hello, <b>NIX Education</b>';
+include('header.php');
+include('main.php');
+include('footer.php');
 ?>
