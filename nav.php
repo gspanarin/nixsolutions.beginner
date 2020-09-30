@@ -7,19 +7,19 @@ $menu = [
 		'url' => 'home.php'],
 	
 	'lessons1' => [
-		'lable' => 'Урок 1',
+		'lable' => 'урок1',
 		'description' => 'Страница первого урока',
 		'url' => 'lessons1.php'],
 	
 	'lessons2' => [
-		'lable' => 'Урок 2',
+		'lable' => 'урок2',
 		'description' => 'Страница второго урока',
 		'url' => 'lessons2.php'],
 		
-	'multiplicationTable' => [
-		'lable' => 'Таблица умножения',
+	'lessons3' => [
+		'lable' => 'урок3',
 		'description' => 'Страница второго урока',
-		'url' => 'multiplicationTable.php'],
+		'url' => 'lessons3.php'],
 	
 	'git' => [
 		'lable' => 'Страница проекта на ГитХаб',
