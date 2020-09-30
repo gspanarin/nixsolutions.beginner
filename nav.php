@@ -15,6 +15,11 @@ $menu = [
 		'lable' => 'Урок 2',
 		'description' => 'Страница второго урока',
 		'url' => 'lessons2.php'],
+		
+	'multiplicationTable' => [
+		'lable' => 'Таблица умножения',
+		'description' => 'Страница второго урока',
+		'url' => 'multiplicationTable.php'],
 	
 	'git' => [
 		'lable' => 'Страница проекта на ГитХаб',
