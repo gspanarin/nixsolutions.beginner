@@ -1,10 +1,5 @@
-<html>
-<head>
-<title>Мой первый сайт</title>
-</head>
-<body>
 <?php
-echo 'Hello, <b>NIX Education</b>';
+include('header.php');
+include('main.php');
+include('footer.php');
 ?>
-</body>
-</html>
